@@ -2,8 +2,9 @@
     "last_compilations": [{
         "ExtractionCatalogueBnF": 1.04,
         "ExtraCat": 67,
-		"elagueurNoemi": 5,
-		"ExtractNoemi": 5
+		"elagueurNoemi": 6,
+		"ExtractNoemi": 6,
+		"ExtracatNoemi": 6
     }],
     "alertes": {
         "ExtraCat": {
